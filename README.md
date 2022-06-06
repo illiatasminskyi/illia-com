@@ -13,7 +13,7 @@
 ## Tasminskyi Illia Ruslanovich
 
 > I develop interactive web applications using modern technologies.
-
+ 
 :briefcase: CONTACTS
 
 * Portfolio: [illia.con](https://www.google.com)
