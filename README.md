@@ -1,8 +1,8 @@
 ![Header](./Header2.png) 
 
 # Hello! 
-#### My name is Illia
-#### I am a Frontend developer
+#### My name is ***Illia***
+#### I am a ***Frontend developer***
 #### Welcome To My Personal Portfolio
 
 <br>
@@ -17,7 +17,7 @@
 > I develop interactive web applications using modern technologies.
  <br>
 
-:briefcase: CONTACTS 
+:briefcase: **CONTACTS**
 
 * Portfolio: [illia.con](https://www.google.com)
 
@@ -26,7 +26,7 @@
 * Telegram: [@illiaTasminskyi](https://t.me/illiaTasminskyi) 
 <br>
 
-:wrench: PROFESSIONAL SKILLS
+:wrench: **PROFESSIONAL SKILLS**
 * HTML / CSS 
 
 * JavaScript 
