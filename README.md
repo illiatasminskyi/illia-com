@@ -1,11 +1,12 @@
 ![Header](./Header2.png) 
 
 # Hello! 
-### My name is Illia
-### I am a Frontend developer
-### Welcome To My Personal Portfolio
+#### My name is Illia
+#### I am a Frontend developer
+#### Welcome To My Personal Portfolio
 
----
+<br>
+
 ***Summary:*** [illia.con](https://www.google.com)
 
 ---
@@ -13,7 +14,8 @@
 ## Tasminskyi Illia Ruslanovich
 
 > I develop interactive web applications using modern technologies.
- 
+ <br>
+
 :briefcase: CONTACTS 
 
 * Portfolio: [illia.con](https://www.google.com)
