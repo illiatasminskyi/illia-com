@@ -1,4 +1,4 @@
-![Header](./Header2.png) 
+![Header](./Header.png) 
 
 # Hello! 
 #### My name is ***Illia***
@@ -7,7 +7,7 @@
 
 <br>
 
-***Summary:*** [Open](./CV.pdf)
+***Summary:*** [Open](https://drive.google.com/file/d/1ncUOtKuBYYZQj5bDnlpXXPFcxIX4Lzrs/view?usp=sharing)
 
 ---
  <br>
