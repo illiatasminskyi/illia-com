@@ -21,6 +21,7 @@
 * Linkedin: [Illia Tasminsky](https://www.linkedin.com/in/illia-tasminskyi-6349331b6/)
 
 * Telegram: [@illiaTasminskyi](https://t.me/illiaTasminskyi) 
+
 \
 
 :wrench: PROFESSIONAL SKILLS
