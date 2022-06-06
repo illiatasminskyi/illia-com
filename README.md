@@ -22,6 +22,7 @@
 
 * Telegram: [@illiaTasminskyi](https://t.me/illiaTasminskyi) 
 \
+
 :wrench: PROFESSIONAL SKILLS
 * HTML / CSS 
 * JavaScript 
