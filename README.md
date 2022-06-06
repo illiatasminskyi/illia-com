@@ -7,7 +7,7 @@
 
 <br>
 
-***Summary:*** <a href="https://drive.google.com/file/d/1ncUOtKuBYYZQj5bDnlpXXPFcxIX4Lzrs/view?usp=sharing" target="_blank">Open</a>
+***Summary:*** [Open](https://drive.google.com/file/d/1ncUOtKuBYYZQj5bDnlpXXPFcxIX4Lzrs/view?usp=sharing)
 
 ---
  <br>
