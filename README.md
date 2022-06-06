@@ -7,7 +7,7 @@
 
 <br>
 
-***Summary:*** [Open](https://www.google.com)
+***Summary:*** [Open](./CV.pdf)
 
 ---
  <br>
