@@ -19,7 +19,7 @@
 
 :briefcase: **CONTACTS**
 
-* Portfolio: [illia.con](https://www.google.com){:target="_blank"}
+* Portfolio: [illia.con](https://www.google.com) {:target="_blank"}
 
 * Linkedin: [Illia Tasminsky](https://www.linkedin.com/in/illia-tasminskyi-6349331b6/){:target="_blank"}
 
