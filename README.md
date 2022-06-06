@@ -7,9 +7,10 @@
 
 <br>
 
-***Summary:*** [illia.con](https://www.google.com)
+***Summary:*** [Open](https://www.google.com)
 
 ---
+ <br>
 
 ## Tasminskyi Illia Ruslanovich
 
@@ -27,10 +28,18 @@
 
 :wrench: PROFESSIONAL SKILLS
 * HTML / CSS 
+
 * JavaScript 
+
 * TypeScript 
+
 * React.js 
+
 * Redux
+
 * Bootstrap
+
 * Material UI 
+
 * Git 
+
